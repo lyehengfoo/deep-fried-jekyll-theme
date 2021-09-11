@@ -1,5 +1,5 @@
 # Site settings
-baseurl: ''
+baseurl: '/deep-fried-jekyll-theme'
 url: 'https://github.com/kiltandcode/deep-fried'
 title: 'Deep-fried'
 description: 'A minimalist Jekyll theme optimized for readability and performance.'
